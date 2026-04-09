@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "best_sabway_route/1.0.0": {
+        "runtime": {
+          "best_sabway_route.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "best_sabway_route/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/bin/Debug/net10.0/best_sabway_route
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/bin/Debug/net10.0/best_sabway_route.deps.json
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/bin/Debug/net10.0/best_sabway_route.runtimeconfig.json
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/bin/Debug/net10.0/best_sabway_route.dll
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/bin/Debug/net10.0/best_sabway_route.pdb
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.AssemblyInfoInputs.cache
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.AssemblyInfo.cs
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.csproj.CoreCompileInputs.cache
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.dll
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/refint/best_sabway_route.dll
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.pdb
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/best_sabway_route.genruntimeconfig.cache
+/Users/thiagoandradeferreira/Desktop/colege/ai_1/best_sabway_route/best_sabway_route/obj/Debug/net10.0/ref/best_sabway_route.dll
