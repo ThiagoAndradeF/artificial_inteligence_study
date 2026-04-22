@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("best_sabway_route")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f530c27b7b5893f034cdac82ca0c7c62df806ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("best_sabway_route")]
 [assembly: System.Reflection.AssemblyTitleAttribute("best_sabway_route")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
